@@ -1,0 +1,4 @@
+Rencana Belajar
+- Dasar Pemrograman dengan JavaScript
+- HTML Dasar
+- PHP Dasar
