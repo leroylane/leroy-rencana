@@ -1,7 +1,7 @@
 Rencana Belajar
 - Dasar Pemrograman dengan JavaScript
 - HTML Dasar
-- PHP Dasar
+- PHP Dasar (Termasuk MySQL Database)
 - JavaScript Lanjutan
 - Nodejs
 - CSS Dasar
